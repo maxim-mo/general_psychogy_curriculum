@@ -1,0 +1,83 @@
+---
+title: "Память и мышление"
+author: "Максим Игоревич Морозов"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
+---
+
+
+# All you need is...
+### Баллы
+ * [ПСД 122](https://docs.google.com/spreadsheets/d/1Ff5TusGpmSl1yt8GNhwtV0KEh9zmHhIxE6r4iMSoCNc/edit?usp=sharing)
+ * [ПСД 222](https://docs.google.com/spreadsheets/d/1tuPw6GB3Ng48Qy5-czHL8w2Ocmgjd6eEoj2HzRoXTTA/edit?usp=sharing)
+ * [LA 121](https://docs.google.com/spreadsheets/d/1oa3TTgWDjPbHMljlrwY4avLt_Y2dTlvtHfD-2ARtsVo/edit?usp=sharing)
+ * [LA 221](https://docs.google.com/spreadsheets/d/19u79BEUeQgxZgUay9tle4sftHdL_yRomT8gtY0dDtzs/edit?usp=sharing)
+ * [ПКиК 122](https://docs.google.com/spreadsheets/d/1Jo5OMCVxcVZhE6D3vadYyyZ-w-i-G-sEJT4Sik7c4d4/edit?usp=sharing)
+ * [ПКиК 222](https://docs.google.com/spreadsheets/d/1W4XHh6_x6J-bOQYWcCzCL2IjNaryiByCJl4NQ6JaTg8/edit?usp=sharing)
+
+### [Скачать тексты](https://drive.google.com/drive/folders/1FhfXzQ9ErzAyA2bXIEGQd_M8kltDMC28?usp=drive_link) можно тут
+
+### Ориентировочные [Вопросы к экзамену](https://docs.google.com/document/d/1xauYpvS826VSZV1pkPTmH54pIbYTORWB/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true) тут
+
+### Полезные программы
+[Mendeley](https://www.mendeley.com/download-reference-manager/windows) Бесплатная читалка для pdf
+
+[Zotero](https://www.zotero.org/) Ещё одна Бесплатная читалка для pdf
+
+***
+
+<h1 style="text-align: center;">**Програма**</h1>
+
+
+
+
+
+##  Тема 1. Общее представление о познании. Средства познания
+
+### **Что тут будет**
+  Познание как совокупность средств представления окружающего мира. Формы и средства представления реальности: действие, образ, знак.
+  Познание и действие. Активная природа познавательных процессов. Общее представление о перцептивном действии. Установочные и гностические действия. Развитие перцептивных действий. Определение когнитивной схемы. Функции схем.     Становление и развитие когнитивных схем. Ассимиляция и аккомодация. 
+Познание и образ. Категория образа в психологии. Функции образа: изображение, знак, символ. Понятие о воображении, его виды и функции. Природа ментальных образов. Мысленный поворот и его исследования. Роль ментальных образов в процессах познания. Соотношение образного и пропозиционального кодирования информации. Теория двойного кодирования. Образ и понятие: свойства визуального мышления.
+  Познание и знак (знаковые системы). Мышление и язык. Гипотеза лингвистической относительности.
+  Виды и функции речи. Мышление и речь, различные представления об их соотношении. Общие характеристики эгоцентрической и внутренней речи. Значение и смысл слова. Значение слова как единица речевого мышления. 
+  Виды мышления как уровни его развития: наглядно-действенное, наглядно-образное и вербально-логическое мышление. Сенсомоторный интеллект, наглядноинтуитивное мышление и понятийный интеллект. Наглядноинтуитивное мышление как допонятийная стадия развития интеллекта; ее основные характеристики: синкретизм, эгоцентризм, интуитивное (внелоги-ческое) обобщение. 
+  Понятие и методы его исследования. Формирование искусственных понятий как метод исследования речевого мышления. Методика Выготского-Сахарова.               Функциональные эквиваленты понятия как стадии развития значений слов. Синкреты, комплексы, псевдопонятия, истинные понятия и их характеристика. Житейские и научные понятия. Стратегии формирования искусственных понятий (Дж. Брунер).
+
+
+
+### **Вопросы к семинару**
+1.	Формы и средства представления реальности: действие, образ, знак.
+2.	Активная природа познавательных процессов. Общее представление о познавательном действии. 
+3.	Роль двигательной активности в развитии чувствительности. Сенсомоторный интеллект и его развитие. 
+4.	Понятие когнитивной схемы. Виды и функции схем.
+5.	Познание и образ. Виды и функции образа.
+6.	Природа ментальных образов. Мысленный поворот и его исследования. 
+7.	Наглядно-интуитивное мышление: его возможности и ограничения.
+8.	Соотношение образного и логического кодирования информации. Теория двойного кодирования. Визуальное мышление.
+9.	Виды и функции речи. Общие характеристики эгоцентрической и внутренней речи. Пиаже эгоцентрическая речь
+10.	Значение слова как единица речевого мышления. Формирование искусственных понятий как метод исследования речевого мышления. Функциональные эквиваленты понятия как стадии развития значений слов.
+11.	Наглядно-действенное, наглядно-образное и вербально-логическое мышление.
+12.	Гипотеза лингвистической относительности.
+
+
+
+### **Что почитать** 
+1. [Бартлетт Ф. Человек запоминает](https://docs.google.com/document/d/1cR6K3VkjZ0amN6PD1S9llzuOVm4XvQLp/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+2. [Найссер У. Когнитивная схема](https://drive.google.com/file/d/1PghGjLRA_7_Jrmi1mV3QU8cooa97ZrIl/view?usp=drive_link)
+3. [Норман Д. Семантические сети](https://drive.google.com/file/d/1Q_V6i2he0RflQESv3MpUQdzm5O2HTCOm/view?usp=drive_link)
+4. [Брунер Дж. О действенном и наглядно-образном представлении мира ребёнком](https://drive.google.com/file/d/1hjcvLbLiJY14UjLo_J2BDl93pfcdBS9z/view?usp=drive_link)
+5. [Арнхейм Р. Визуальное мышление](https://drive.google.com/file/d/1LxgCiSKW6D-GiEnBUNrz1aOZws8UZIKc/view?usp=drive_link)
+6. [Пиаже Ж. Интуитивное (наглядное) мышление](https://drive.google.com/file/d/1Aibni7mkHLKtgAHoUxpenLLYgg4SuAeM/view?usp=drive_link)
+7. [Поддьяков Н.Н. Мышление дошкольника](https://drive.google.com/file/d/1FMM75cRFcYvYFn9k7Fb-cszShDZgTKZU/view?usp=drive_link)
+8. [Выготский Л.С. О природе эгоцентрической речи](https://drive.google.com/file/d/15lSxNnvh4CZEtjaRsFFWaBbwzg4Hnzif/view?usp=drive_link)
+9. [Пиаже Ж. Эгоцентрическая речь и комментарий Выготсткому](https://drive.google.com/file/d/1KAZvZa_LWTSp_vZvpnqhw-dCa1jfF1C7/view?usp=drive_link)
+10. [Брунер Дж. Стратегии приёма информации при образовании понятий](https://drive.google.com/file/d/1kZKl6l3iJFownPaigyCRrolgbpwgGvAQ/view?usp=drive_link)
+11. [Слобин Д. Лингвистическая относительность и детерминизм](https://drive.google.com/file/d/1XHoXcUBe-hN7qUo1YQ3rZWZycTA3Hwbb/view?usp=drive_link)
+12. [Запорожец А.В. Развитие восприятия и деятельность](https://docs.google.com/document/d/1nn2g3YDxeFYZd1uVxsBJYNtHeWzD-ljx/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+13. [Осгуд Ч. Точка зрения гештальттеории](https://drive.google.com/file/d/1v7qAdPt8Hp68N8XHrhsh0OA6VZGncvaR/view?usp=drive_link)
+14. [Шиффман Х. Развитие перцептивно-моторной координации](https://docs.google.com/document/d/13a4sb4RJ48QMhLlpRWl5ZUn6GuwyvQFr/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+15. [Андерсон Дж. Теория двойного кодирования](https://docs.google.com/document/d/1O-idoGG73mZS9m_-5Q-YxVY1gOM9ZViD/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+

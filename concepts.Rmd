@@ -1,0 +1,318 @@
+---
+title: "Введение в общую психологию Категории психологии"
+author: "Максим Игоревич Морозов"
+date: "осень 2023"
+output:
+  prettydoc::html_pretty:
+    theme: Tactile
+    highlight: github
+---
+
+> # All you need is...
+> ### Баллы
+> * [ПКиК 123](https://docs.google.com/spreadsheets/d/1KPpH3WHZoaKuVVDNwFwuP6cd6PyszJB30L6_cnXZFog/edit?usp=sharing)
+> * [ПКиК 223](https://docs.google.com/spreadsheets/d/14kpN-sadQrKJpfq0CBp76I_jvZ8EWsnLocRV-agx8To/edit?usp=sharing)
+> * [ПКиК 323](https://docs.google.com/spreadsheets/d/1XyUSn1KnDP7eoW3kX1XtzdjWUOxrvhcQK94EbbW8QvE/edit?usp=sharing)
+>
+> ### [Скачать тексты](https://drive.google.com/drive/folders/1fqlcIXSD6uGLraTDyxwPGOkGI-hvg-9s?usp=sharing) можно тут
+>
+> ### [Вопросы к экзамену](https://docs.google.com/document/d/1y5RoPj3nmsW17_AzI1iPy2VMx_d9k420JjONa_aaoHo/edit?usp=drive_link) тут
+>
+> ### Полезные программы
+>[Mendeley](https://www.mendeley.com/download-reference-manager/windows) Бесплатная читалка для pdf
+>
+>[Zotero](https://www.zotero.org/) Ещё одна Бесплатная читалка для pdf
+
+***
+
+<h1 style="text-align: center;">**Програма**</h1>
+
+
+
+
+
+## Тема 1. Психология как отрасль научного знания и практической деятельности
+
+### **Что тут будет**
+Многозначность понятия «психология». Источники психологического знания: факты своего сознания, анализ чужого поведения, феномены культуры, продукты деятельности. Психологическое знание в обыденной жизни. Сравнительные особенности житейской и научной психологии: форма существования, методы получения и использования, сфера применения и способы трансляции.
+Основные сферы («трудовые посты») деятельности психолога: исследование, диагностика, преподавание, различные виды практики (психотехники). 
+Общая характеристика психологии как науки: человек как объект и субъект познания. Место психологии в системе наук. Специфика научного психологического знания. Естественнонаучная и гуманитарная психология. Объясняющая и понимающая психология. 
+Общая характеристика практической психологии: диагностика и воздействие. Ситуация клиента. Проблема манипуляции.
+Методы деятельности психолога: общая характеристика и критерии классификации. Исследовательские методы: методы сбора данных (наблюдение, естественный эксперимент, лабораторный эксперимент); методы обработки данных: качественный анализ, статистика, реконструкция (в том числе математическое моделирование). Методы психологической диагностики: основные виды и характеристики тестов. Методы психотехники: методы обучения, развития, коррекции, психотерапии и различных видов консультирования. 
+Отрасли психологии: критерии их выделения. Характеристика отдельных отраслей.
+
+
+### **Вопросы к семинару**
+1.	Основные значения термина «психология». Источники психологического знания.
+2.	Сравнительные особенности житейской и научной психологии.
+3.	«Трудовые посты» и методы деятельности психолога.
+4.	Отрасли психологии
+5.	Общая характеристика психологии как науки. Специфика психологического знания. 
+
+
+### **Что почитать** 
+1. [Гиппенрейтер Ю.Б.Общее представление о психологии как науке](https://docs.google.com/document/d/1VjnnQHogTPACaFsUo-p899_64pP2Ikr9/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+2. [Годфруа Ж. Что такое психология. Отрасли психологии](https://docs.google.com/document/d/1mxFKWYOClcqDYsLP4N-9zUhFqynDznWA/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+3. [Мартин М. Методы психологии](https://docs.google.com/document/d/1rNNHRFP5UhI08zpvpzOovEG5BSD0HIf8/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+4. [Бухаров Я.М. Психотерапия](https://drive.google.com/file/d/1EfqtVQZiN_zm3rezQtFojsOvyFafiskZ/view?usp=drive_link)
+
+
+### **Дополнительно**
+5. [Бодалёв В.В. Столин М. Общая психодиагностика. Методы психологии](https://docs.google.com/document/d/1EHRMbC8E5HlvBjNiuaSFh4KqfbdmZve-/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+6. [Кочюнас Р. Основы психологического консультирования](https://docs.google.com/document/d/1uWP2xpzVHz7u8iC4lmR3vtJ6WWYX6Fzu/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+7. [Годфруа Ж. Методы психологии](https://docs.google.com/document/d/1YatemqVFs-ErfBurpPYPFaRIcdsXd-Ln/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+8. [Годфруа Ж. Психотерапия](https://docs.google.com/document/d/1cn5T59P-zb87DpNby56bhyElZwdA8_BZ/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+9. [Лурия А.Р. Некоторые общие вопросы психологии как науки. Из хрестоматии Соколовой](https://drive.google.com/file/d/1JgemFhKAd0CY-AXxz6sYxeSYXOBmvozq/view?usp=drive_link)
+
+
+
+
+## Тема 2. Биологические основы человеческой мотивации
+
+### **Что тут будет**
+Филогенетические предпосылки человеческой мотивации. Основные биологические потребности. Инстинктивные и онтогенетически развивающиеся формы мотивации у животных. Специфика биологических потребностей у человека. Проблема соотношения биологических и высших потребностей. Роль инстинктов в человеческой мотивации. Принцип функциональной автономии мотивов (Г. Оллпорт).
+
+### **Вопросы**
+1.	Филогенетические предпосылки человеческой мотивации. Общие биологические потребности. Инстинктивные и онтогенетически развивающиеся формы мотивации у животных.
+2.	Специфика биологических потребностей у человека. Соотношение биологических и высших потребностей. Принцип функциональной автономии мотивов.
+3.	Роль инстинктов в человеческой мотивации. Разные трактовки понятия инстинкта.
+4. Функциональная автономия мотивов.
+
+### **Что почитать** 
+1. [Берковиц Л. Что такое инстинкт?](https://docs.google.com/document/d/1CZTkGb60kHwBw3q4X10IdI2DmLEZtk5g/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)
+2. [Божович Л.И. Потребность в новых впечатлениях](https://docs.google.com/document/d/1dxakabWgsUJHm2TNs-kG7x759njkUExp/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+3. [Вилюнас. В. Инстинктивная основа мотивации человека](https://docs.google.com/document/d/1XIcu11DlS7zu1qJjdwv1XOor5OOFpekK/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+4. [Глейтман Г., Фридлунд А., Райсберг Д. Брачные союзы у людей.](https://docs.google.com/document/d/10I4fLagzHHAtVIS7rAqZ7TLDviyrwqDK/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+5. [Глейтман Г., Фридлунд А., Райсберг Д. Гомеостаз](https://docs.google.com/document/d/1TP9PZKaiXbfLdEmoAngw-gIT8xBizEIX/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+6. [Лисина. М.И. Потребность в общении](https://docs.google.com/document/d/1VVzSQ-44TKZ-4tH7iQ3KliNl7_B-JYYs/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+7. [Лоренц К. Так называемое зло. К естественной теории агрессии.](https://docs.google.com/document/d/1qxVQ-6Vc6AQRZnB37TMzB9CFWKp59BZw/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+8. [Нюттен Ж. Познавательная и социальная мотивация](https://docs.google.com/document/d/1FHdwg3-c25Ux86n__BdM1uAocazR5fY1/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+9. [Оллпорт Г. Трансформация мотивов](https://docs.google.com/document/d/1U4bDYZLWu14GtSVdgjpono7j7H5oAlsj/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+10. [Оллпорт Г. Функциональная автономия мотивов](https://docs.google.com/document/d/1TLFk-xViZFMaQIC-BHuR2qBFbf_9RP9F/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+
+
+
+
+## Тема 3. Строение мотивационно-потребностной сферы человека
+
+### **Что тут будет**
+Классификации мотивов в концепциях У. МакДауголла и Г. Мюррея. Представления о строении мотивационно-потребностной сферы в классическом психоанализе. Либидо и стремление к смерти как первичные влечения (З.Фрейд). Стремление к превосходству (А. Адлер). Представления о строении мотивационно-потребностной сферы в гуманистической психологии. Самоакту-ализация и стремление к смыслу жизни как высшие потребности (А. Маслоу, В. Франкл). Иерархическая модель потребностей А. Маслоу. Дефицитарные и бы-тийные потребности. 
+
+### **Вопросы**
+1.	Классификации мотивов в концепциях У. МакДауголла и Г. Мюррея.
+2.	Представления о строении мотивационно-потребностной сферы в классическом психоанализе. Либидо и стремление к смерти как первичные влечения (З.Фрейд). Стремление к превосходству и общественное чувство (А. Адлер). Неофрейдисткие концепции мотивации (К. Хорни, Э. Фромм).
+3.	Представления о строении мотивационно-потребностной сферы в гумани-стической психологии. Самоактуализация и стремление к смыслу жизни как высшие потребности (А. Маслоу, К. Роджерс, В. Франкл). Иерархическая модель потребностей А. Маслоу. Дефицитарные и бытийные потребности.
+
+### **Что почитать** 
+1. [Хекхаузен Х. классификация мотивов у Макдаугола и Мюррея](https://docs.google.com/document/d/1rWj7YJVXxE8V-qaEShfD-b8t5VE2vitX/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)
+2. [Фрейд З. Влечения](https://docs.google.com/document/d/1mLt9EElqz6bnTyR0e7sj5ung47yukKnL/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+3. [Хьелл Л., Зиглер Д. Психодинамическая теория личности Фрейда](https://docs.google.com/document/d/1wmTrgovtdcz6bYzmYqSYjEf_6lu7NIPs/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+4. [Маслоу А. Маслоу А. Мотивация и личность](https://docs.google.com/document/d/1XSsux6iVWw4-AGJEYOHXVCsJhNppHoDV/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+5. [Хьелл Л., Зиглер Д. Гуманистические теории личности. Маслоу](https://docs.google.com/document/d/1wmJoIlMMDVEYwmFjAnTOOli4hKkJJ2cO/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+6. [Хьелл Л., Зиглер Д. Индивидуальная теория личности А. Адлера](https://docs.google.com/document/d/1pM4T0tZKOT00qlBxF-lH3VmaZEThzz-3/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)
+7. [Франкл В.Самотрансценденция как феномен человека](https://docs.google.com/document/d/1NhiocqeSo_PN2Er4G4Wv8MGxFP_hh4pb/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)
+8. [Хьелл Л., Зиглер Д. Гуманистическая теория личности Э. Фромма](https://drive.google.com/file/d/10aRE57LRsLnFq5eOtIlK1m-OJFJe2VSu/view?usp=share_link)
+9. [Хьелл Л., Зиглер Д. Социокультурная теория личности К. Хорни](https://drive.google.com/file/d/1vuEBWm8j8bNw2OOfQ-BCouxJUjge4VRd/view?usp=share_link)
+10. [Хьелл Л., Зиглер Д. Феноменологическая теория личности К. Роджерса](https://drive.google.com/file/d/1di8cxcfzyMXMxEps8yH1-CuySqbECp4r/view?usp=share_link)
+
+
+
+
+
+## Тема 4. Мотивация в теориях активации
+
+### **Что тут будет**
+Предшественники психологических теорий мотивации как активации.  Закон Йеркса-Додсона и его эмпирические проявления. Теории Д. Хэбба и Д. Берлайна. Теория реверсивности М. Аптера
+
+### **Вопросы**
+1.	Предшественники психологических теорий мотивации как активации. 
+2.	Закон Йеркса-Додсона и его эмпирические проявления.
+3.	Теории Д. Хэбба и Д. Берлайна.
+4.	Теория реверсивности М. Аптера
+
+### **Что почитать** 
+1. [Хекхаузен Х. Линия психологии активации](https://drive.google.com/file/d/1zYJm9N7BdwEUJb0tl4miMAJoSUes4O9E/view?usp=share_link)
+2. [Хекхаузен Х. теории активации](https://drive.google.com/file/d/17pe7i2TA9VHRHOPQ17m6yJCk2jx0huiI/view?usp=share_link)
+3. [Фресс П., Пиаже Ж. Оптимум мотивации](https://docs.google.com/document/d/1xTQ7ftMuTR9LqAikYo0Yd09vGxc-E-CG/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)
+4. [Аптер А. Теория РЕверсивности](https://drive.google.com/file/d/1LygHN1TN4_MD9NB08BibpoVB0XwzplXD/view?usp=share_link)
+4. [Ротсданкер Р. Закон Йеркса-Додсона Оптимум мотивации](https://drive.google.com/file/d/1V9ADk62GB3czW4rrll0-C4nYZL1SJd88/view?usp=share_link)
+
+
+
+
+
+## Тема 5. Ситуационная динамика мотивации (школа Курта Левина)
+
+### **Что тут будет**
+Исследования ситуативной мотивации в школе К. Левина. Истинные и квазипотребности. Экспериментальные исследования квазипотребностей.  Мотивационная теория поля. Типы мотивационных конфликтов.
+Процессы целеполагания. Уровень притязаний: основные понятия, диагностические процедуры, экспериментальные феномены.
+
+### **Вопросы**
+1. Учение о квазипотребностях. Их экспериментальное изучение.
+2. Теория поля. Типы конфликтах.
+3. Уровень притязаний
+
+### **Что почитать** 
+1. [Хекхаузен Х. Теория конфликта](https://drive.google.com/file/d/1Uq7mRx-fWC0EXYNWikyNH0bBePpGbpZF/view?usp=share_link)
+2. [Хекхаузен Х. Уровень притязаний и теория результирующей валентности](https://drive.google.com/file/d/10fJ3sEGXEFfihQOdQiaFxRZ65tj-0Hj8/view?usp=share_link)
+3. [Левин К. Динамическая психология](https://drive.google.com/file/d/1D5RIHAT9qTrreEANU5qOzxvvjdmDjBZo/view?usp=share_link)
+4. [Левин К. Типы конфликтов](https://docs.google.com/document/d/13qy9XBzF03V1bV3i-xVGnbGpLU1gRL2N/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)
+5. [Зейгарник Б.В. Запоминание незаконченных действий](https://docs.google.com/document/d/1cW8537iyTui9S_ednuDd0mK3iYRecgxi/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)
+6. [Левик К., Дембо Т., Фестингер Л., Сирс Р. Уровень притязаний](https://docs.google.com/document/d/1a1Z8cwIDkY7bTcTd0j8rW9r7gdnmIkGO/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)
+
+
+
+
+
+## Тема 6. Когнитивные теории мотивации
+
+### **Что тут будет**
+Когнитивный диссонанс и его мотивационное значение (Л. Фестингер). Экспериментальные исследования когнитивного диссонанса. Ожидание и ценность подкрепления как мотивационные переменные (Дж. Роттер). Внешний и внутренний локус-контроля. Теория социального научения. Самоподкрепление и саморегуляция как мотивационные факторы. Понятие самоэффективности (А. Бандура).
+
+### **Вопросы**
+1. Когнитивный диссонанс и его мотивационное значение. Экспериментальные исследования когнитивного диссонанса.
+2. Ожидание и ценность подкрепления как мотивационные переменные. Внешний и внутренний локус контроля.
+3. Самоподкрепление и саморегуляция как мотивационные факторы. Понятие са-моэффективности.
+
+### **Что почитать** 
+1. [Фестингер Л. Теория когнитивного диссонанса. Хрестоматия под ред. Петухова](https://drive.google.com/file/d/1N58r3SLK3eJq4nKCLp8ZwK-_-3Cbin5c/view?usp=share_link)
+2. [Фестингер Л. Теория когнитивного диссонанса](https://docs.google.com/document/d/1vVTtbIkF_yn8C8Ik2Zt3jibzBgHqb_e7/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)
+3. [Фестингер Л. Карлсмит Дж. Когнитивные следствия вынужденного согласия](https://docs.google.com/document/d/1NNgbN8AxG8VZ0j_OuR2eKbymd-E5-GWH/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+4. [Роттер Дж. Теория социального научения](https://docs.google.com/document/d/1qgP9kq304jE588tKcUjsqgc9jCRkW7VJ/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+5. [Бандура А. Социально-когнитивная теория личности](https://docs.google.com/document/d/1P1t8B_GGKEr-jD5G6qfxrtWj0wg8SgqT/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+5. [Бандура А. Теория социального научения](https://docs.google.com/document/d/1kCFkBcrG5J7J_UFyb8OMDSujISqvSo_8/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)
+
+
+
+
+## Тема 7. Влияние мотивации на эффективность деятельности
+
+### **Что тут будет**
+Мотивация и эффективность деятельности. Внешняя и внутренняя мотивация. Зависимость эффективности деятельности от внешней и внутренней мотивации. Теория самодетерминации Э. Деси и Р. Райана. Особый вид внутренней мотивации: состояние потока (М. Чиксентмихайи). 
+
+### **Вопросы**
+1. Теории активации об эффективности деятельности
+2. Зависимость эффективности деятельности от внешней и внутренней мотивации. 
+Теория самодетерминации Э. Деси и Р. Райана. Особый вид внутренней мотива-ции: состояние потока (М. Чиксентмихайи)
+3. Мотивация достижения
+
+### **Что почитать** 
+1. [Хекхаузен Х. Мотив достижения](https://drive.google.com/file/d/1-rHrM3Ec9sE2hAsJsbwjU17A0hBU7Dx3/view?usp=share_link)
+2. [Дормашев Ю.Б., Романов В.Я. Переживание потока. Чиксентмихайи](https://docs.google.com/document/d/1NC6yZsIZI_da3ryR9rFopAKOPNOjLZup/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)
+3. [Чирков В.И. Самодетерминация и внутренняя мотивация поведения челвоека](https://docs.google.com/document/d/1qd7VtHPEGzBN-Mn9mRNlA7fE983kmPEM/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+4. [Деркачёва О.Е. Теория Деси и Райана](https://docs.google.com/document/d/1beAQ5nqK49ERLwp9idGW2StoNkm0cclg/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+
+
+# [Темы](https://docs.google.com/document/d/1M1WP7ISkAZ7sMl-1eyTSN7U1pWH85u8p/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)  для подготовки к контрольной по мотивации 
+
+***
+
+
+
+<h1 style="text-align: center;">**Эмоции**</h1>
+
+
+
+## Тема 8. Введение в психологию эмоций: основные проблемы и понятия
+
+### **Вопросы**
+1.	Общая характеристика эмоциональной сферы психики.
+2.	Основные понятия психологии эмоций. Три стороны эмоциональных явлений.
+3.	Выражение эмоций. Эволюционный подход к объяснению эмоциональной экспрессии. Принципы объяснения выражения эмоций по Ч. Дарвину. Исследования эмоциональной экспрессии.
+
+### **Что почитать** 
+1. [Дарвин Ч. О выражении эмоций у человека и животных](https://drive.google.com/file/d/1O8SiNo2uaYnzjQQXF7zy60AcCVeb1Rf_/view?usp=share_link)
+2. [Изард К.Направления экспериментального исследования мотивации и эмоций](https://drive.google.com/file/d/1CL5MRlZwr4HJocRU8ZAs2lvJf1IbTyO_/view?usp=share_link)
+3. [Рейнковский Я. Исследования выражения эмоций](https://drive.google.com/file/d/1_hVB6_m0Yd_I1bHISOdvDRImlh_Oc_2L/view?usp=share_link)
+4. [Линдеманн Э. Клиника острого горя](https://drive.google.com/file/d/1z5WdTgQGw3Vzovya2TYh-bgyC3JhZAEe/view?usp=share_link)
+5. [Рубинштейн С.Л. Эмоции](https://drive.google.com/file/d/15PbtlOdBag5mQsNoKpz5XRbOhMGYjPQP/view?usp=share_link)
+6. [Петухов В.В. Основные аспекты изучения эмоций](https://drive.google.com/file/d/1Sju4O-uDyE24fsZIFC6evUGGoaeH_w6L/view?usp=share_link)
+7. [Бреслав Г.М. Природа эмоций. Теории Эмоций](https://drive.google.com/file/d/1op6ORcfj2zi2bG9WASqRgNWs_LYBdig9/view?usp=share_link)
+8. [Фрейд З. Печаль и меланолия](https://drive.google.com/file/d/18PBfhhrtxhkHUAv5ETaG68OyNQhXfEIT/view?usp=share_link)
+
+
+
+## Тема 9. Многообразие эмоциональных явлений. Основные подходы к их классификации
+
+### **Вопросы**
+1.  Различение эмоциональных явлений по формально-динамическим характеристикам. Понятия аффекта, эмоции, настроения, страсти, чувства. Уровневые классификации эмоций.
+2.	Различение эмоциональных явлений по знаку и модальности.
+
+### **Что почитать** 
+1. [Леонтьев А.Н. Эмоциональные процессы](https://docs.google.com/document/d/1v-rC03kObusgfUGKGiTadv9Bj_INalkm/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)
+2. [Вундт В. Простые чувства, аффеткы, настроения](https://docs.google.com/document/d/1-7TZuZk6VU1J6zh8oe4WW5leReuNIhyv/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+3. [Аргайл М. Пространство положительных эмоций](https://docs.google.com/document/d/1yfpfk42AXXQv8VojYfT3CY59Ndzqy6vq/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+4. [Рубинштейн С.Л. Виды эмоциональных переживаний](https://docs.google.com/document/d/1603_OYDO1O_0zn6dpN_N2VQtm-0F5RVk/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)
+5. [Бреслав Г.М. Классификация эмоциональных явлений](https://docs.google.com/document/d/1zb6zdUDnrBtBLwOgfZvatquWXwOelZm9/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+
+
+
+## Тема 10. Проблема выделения базовых эмоций
+
+### **Вопросы**
+1.	Понятие базовых эмоций и критерии их выделения. Психоэволюционная теория эмоций Р. Плутчика. Теория дифференциальных эмоций К. Изарда.
+2.	Критика идеи базовых эмоций с позиций социального конструктивизма. Проблема кросс-культурной универсальности эмоций.
+
+
+
+### **Что почитать** 
+1. [Изард К. Что такое эмоции?](https://drive.google.com/file/d/14Bh2nrOWyUFiUb8HicE16KtrFUrNIbBY/view?usp=share_link)
+2. [Вейтен У. Эволюционные теории эмоций](https://docs.google.com/document/d/1FXLEQGN57s1xXsDoIyqVGe9-UiWnU_H5/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+3. [Баррет Л. Миф об универсальных эмоциях. Конструктивизм](https://drive.google.com/file/d/1C8-l9u7zMXSwWg7wuSVuTqFt_5uCPxYa/view?usp=share_link)
+
+#### А это книга Лизы Фельдманн Баррет целиком. Highly recommended 
+[Баррет Л. Как рождаются эмоции](https://drive.google.com/file/d/1nlrRuBJFD_XSO-TSdKmuLfyP9dSqwmE_/view?usp=share_link)
+
+
+## Тема 11. Механизмы возникновения эмоционального процесса
+
+### **Вопросы**
+1.	Периферическая теория эмоций Джеймса-Ланге и её критика.
+2.	Теория атрибуции возбуждения С. Шехтера и Дж. Сингера и её экспериментальные проверки.
+3.	Теории когнитивной оценки. Первичная и вторичная когнитивная оценка. Механизмы совладания. Эксперименты Р. Лазаруса.
+4.	Биологическая теория эмоций П.К. Анохина. Информационная теория эмоций П.В. Симонова.
+
+### **Что почитать** 
+1. [Джеймс У. Что такое эмоция?](https://docs.google.com/document/d/1xIuoCNzeDCJWhafYm8gTMkxQF_t7US5I/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+2. [Шахтер С. Сингер Д. Когнитивные, социальные и физиологические детерминанты эмоционаьного состояния](https://docs.google.com/document/d/1UhfLQL0Mpx2hSEPZn3BB1RfStbhPCSkS/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+3. [Симонов П.В. Информационная теория эмоций](https://docs.google.com/document/d/1s3zj42YZ13rpSH3lQC1PTZSa9RKFH5oJ/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+4. [Лазарус Р. Теория эмоций](https://docs.google.com/document/d/1548HTRh_nsd9Oh7p5Nv8dBSnhmRzOPel/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+5. [Вейтен У. Теории эмоций: теория Кеннона - Барда, теория Шахтера - Сингера](https://docs.google.com/document/d/1UOERZ39yPX5i-9qjESy6LT-TKBh17mTp/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+6. [Анохин П.К. Эмоции](https://docs.google.com/document/d/13xxs8WivYESE-jsvOCi342dzXdWqFWyU/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+7. [Глейтман Г., Фридлунд А., Райсберг Д. Теория эмоций Джеймса - Ланге](https://docs.google.com/document/d/1pmHbey3roDRvNJtrWdjgCOZRrofX6mu9/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+8. [Глейтман Г., Фридлунд А., Райсберг Д. Теория эмоций Шахтера - Сингера](https://docs.google.com/document/d/1tqUCUfnhDxjLvnIJOtKxylo8ws9qjfS2/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+9. [Бреслав Г. Теория эмоций Лазаруса](https://docs.google.com/document/d/1ujD-k362k2DkwMXyHLjnl3l7Xnm_zwTo/edit?usp=sharing&ouid=107249325630861341969&rtpof=true&sd=true)
+
+
+## Тема 12. Функции эмоций. Влияние эмоций на когнитивные процессы
+
+### **Вопросы**
+1.	Функции эмоций.
+2.	Влияние эмоций на когнитивные процессы.
+
+
+### **Что почитать** 
+1. [Вилюнас В. Основные проблемы психологической теории эмоций](https://drive.google.com/file/d/1NCT2HqDOmEEjBXNvQa0F0du0GGDywPE8/view?usp=share_link)
+2. [Симонов П.В. Функции эмоций](https://docs.google.com/document/d/1_T0GKaribSZxZTtc248Vk5Dh2JBiMGgQ/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)
+3. [Тихомиров О.К. Функции эмоциональной активации](https://docs.google.com/document/d/107bycJR4L-D8HdMb7SneqdXq59t-816y/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)
+4. [Бреслав Г. Функции эмоций. Взаимосвязь эмоций с когнитивными процессами](https://docs.google.com/document/d/1V1wAXn-ZjH6PwrSZMJ-YQC2NFoFzpPKM/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)
+5. [Рейнковский Я. Эмоции и познание](https://docs.google.com/document/d/10UcrmICuKvZjGRUm-Sa8GkdeyrhUZbRi/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)
+
+
+## Тема 13. Эмоциональный интеллект
+
+### **Вопросы**
+1.	Понятие эмоционального интеллекта.
+2.  Модель эмоционального интеллекта П. Сэловея и Дж. Мэйера. 
+3.  Модель эмоционального интеллекта Д. Гоулмана.
+4.  Модель социального и эмоционального интеллекта Рувена Бар-Она.
+5.  Модель эмоционального интеллекта Д.В. Люсина.
+
+
+### **Что почитать** 
+1. [Ушаков Д.В. Социальный и эмоциональный интеллект: надежды, сомнения,перспективы](https://drive.google.com/file/d/1ARFwB5Qu1rui1O63sZA19LFRn_uBYr6p/view?usp=drive_link)
+2. [Люсин Д.В. Современные представления об эмоциональном интеллекте](https://drive.google.com/file/d/1AW_R1Ajm98HdDMfKVWqYwYO5untqpQw7/view?usp=drive_link)
+
+
+# [Темы](https://docs.google.com/document/d/12npVjpRmd-BLA9IJP7zq9SrRfY2PObAI/edit?usp=share_link&ouid=107249325630861341969&rtpof=true&sd=true)  для подготовки к контрольной по эмоциям 
+
