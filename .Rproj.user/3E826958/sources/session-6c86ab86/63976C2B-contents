@@ -1,10 +1,10 @@
 ---
-title: "Введение в общую психологию Категории психологии"
+title: "Введение в общую психологию. Категории психологии"
 author: "Максим Игоревич Морозов"
 date: "осень 2023"
 output:
   prettydoc::html_pretty:
-    theme: Tactile
+    theme: hpstr
     highlight: github
 ---
 
@@ -63,6 +63,3 @@ output:
 7. [Годфруа Ж. Методы психологии](https://docs.google.com/document/d/1YatemqVFs-ErfBurpPYPFaRIcdsXd-Ln/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
 8. [Годфруа Ж. Психотерапия](https://docs.google.com/document/d/1cn5T59P-zb87DpNby56bhyElZwdA8_BZ/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
 9. [Лурия А.Р. Некоторые общие вопросы психологии как науки. Из хрестоматии Соколовой](https://drive.google.com/file/d/1JgemFhKAd0CY-AXxz6sYxeSYXOBmvozq/view?usp=drive_link)
-
-
-
