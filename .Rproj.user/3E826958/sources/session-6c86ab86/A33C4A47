@@ -3,7 +3,7 @@
     "path": "D:/github/general_psychogy_curriculum/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "570576400",
+    "hash": "3640472066",
     "contents": "",
     "dirty": false,
     "created": 1694355731744.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "11,47",
+        "cursorPosition": "11,48",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1694530933,
+    "lastKnownWriteTime": 1694531443,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1694530933169,
+    "last_content_update": 1694531443798,
     "read_only": false,
     "read_only_alternatives": []
 }

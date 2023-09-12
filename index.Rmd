@@ -9,6 +9,6 @@ output: html_document
 
 [Память и мышление](memory-and-thinking.html)
 
-[Введение в общёю психологию](introduction.html)
+[Введение в общую психологию](introduction.html)
 
 [young scientist starter pack]()
