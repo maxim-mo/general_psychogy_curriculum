@@ -141,6 +141,9 @@ output:
 
 
 
+# [Темы](https://docs.google.com/document/d/1LAu009buV-rnv7VCM5Vjt5yL5dXTTCU5/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true) для подготовки к контрольной №1 
+
+
 ### Тема 2.4 Целостные формы сознания как предмет психологии. Гештальтпсихология
 
 ### **Что тут будет**
@@ -160,6 +163,7 @@ output:
 3. [Фаликман М.В. Гештальтпсихология](https://postnauka.ru/faq/69883)
 
 
+
 ### Тема 2.5 Неосознаваемые процессы как предмет психологии
 
 ### **Что тут будет**
@@ -175,8 +179,11 @@ output:
 
 
 ### **Что почитать** 
-1. []()
-2. []()
+1. [Фрейд З. Психопаталогия обыденной жизни](https://docs.google.com/document/d/1B98TrOi8k7Wvb9KaquA5n-pFsEv-Zxt7/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+2. [Фрейд З. О психоанализе. Пять лекция](https://docs.google.com/document/d/1I5fyV8UJgXfMhTKS-xgsMzg1F6XbKNQJ/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+3. [Фрейд З. Некоторые замечания относительно понятия бессознательного в психоанализе](https://docs.google.com/document/d/1RSauRKhD85FsmyXAmjCteIosthr7SD1g/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+4. [Узнадзе Д.Н. Общее учение об установке](https://docs.google.com/document/d/1FWZSEY-YBR_K5RrinI74ri7sxyG3B9rS/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+5. [Гиппенрейтер Ю.Б. Неосознаваемые процессы](https://docs.google.com/document/d/1MNneieTmIg-3d1tBw3gOKo-7yjLTC3uo/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
 
 
 
@@ -202,9 +209,10 @@ output:
 
 
 ### **Что почитать** 
-1. []()
-2. []()
-
+1. [Выготский Л.С. Проблема культурного развития ребёнка](https://drive.google.com/file/d/1aSM_uCj8AcUwCLQ68bmmdm_lDP4U8AxV/view?usp=drive_link)
+2. [Леонтьев А.Н. Развитие высших форм запоминания](https://drive.google.com/file/d/1WfDLSG9NzRh3QztpAHGERY2v6OiZ3KJE/view?usp=drive_link)
+3. [[Леонтьев А.Н. Категория деятельности в психологии](https://drive.google.com/file/d/1RwdCQ5spdCbo4OjKsQkKMvXBHbe5OcpR/view?usp=drive_link)
+4. [Гиппенрейтер Ю.Б. Психологическая теория деятельности](https://docs.google.com/document/d/1WvFVEguH93DSIo0tD3Lj3lHVfLUmr07P/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
 
 
 ### Тема 2.7 Активные целенаправленные формы поведения как предмет исследования. Бефлекторное кольцо Н.А. Бернштейна 
@@ -222,8 +230,8 @@ output:
 6. Основные закономерности и этапы формирования двигательных навыков (по Бернштейну)
 
 ### **Что почитать** 
-1. []()
-2. []()
+1. [Бернштейн Н.А. Назревшие проблемы регуляции двигательных актов](https://drive.google.com/file/d/1EzQZ0DzNXZP2Q_8vlaXLCe3RhpdtDzDk/view?usp=drive_link)
+2. [Бернштейн Н.А. Уровни построения движений](https://drive.google.com/file/d/1rEy5MgEa0oCTvRsncBFHU8ba__kR0Jpe/view?usp=drive_link)
 
 
 
@@ -247,10 +255,46 @@ output:
 
 
 ### **Что почитать** 
-1. []()
-2. []()
-
+1. [Айзенк М. История когнитивной психологии](https://docs.google.com/document/d/10r5RZaaZimv2oBvyncgYTPe00Ai55-xs/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+2. [Солсо Р. Введение в когнитивную психологию](https://docs.google.com/document/d/1pZb_Eg6OBCbhU3cIa3Jp7kGfyIuF3kgA/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+3. [Найссер У. Что такое когнитивная психология?](https://docs.google.com/document/d/18Bdild7P2qfV_dAOPJreqB-46qCDBXy3/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
 
 
 ### **Дополнительно**
 1. [Морозов М.И. Алексанян Я.А. Ответ Вильгельма Вундта всех швали его критиков. Вот теперь самое время его смотреть (потребуется VPN)](https://www.instagram.com/reel/CmMP0GDD_TY/?igshid=MTc4MmM1YmI2Ng==)
+
+
+
+## Тема 3. Психофизическая проблема в рамках когнитивных исследований сознания и бессознательного
+
+
+### **Что тут будет**
+  Существующие традиции изучения сознания в психологической науке: структурная и функциональная психология. Основные направления теоретическо-го и экспериментального изучения сознания в когнитивной психологии. Критерии сознания. Стратегии изучения сознания. Изучение феноменального сознания. Изучение когнитивных коррелятов сознания. Осознаваемые и неосознаваемые процессы переработки информации. 
+  Формулировки психофизической проблемы в узком и широком смысле.     Психофизиологическая проблема. Основные варианты ее решения: психофизиче-ское взаимодействие, психофизический параллелизм и психофизическое тожде-ство. 
+Высшая психическая функция как функциональная система.    
+  Функциональ-но-динамическая локализация ВПФ в головном мозге (А.Р. Лурия).
+
+
+### **Вопросы к семинару**
+1.	Основные направления изучения сознания в когнитивной психологии.
+2.	Формулировки психофизической проблемы в узком и широком смысле. Пси-хофизиологическая проблема. 
+3.	Основные варианты решения психофизической проблемы: психофизическое взаимодействие, психофизический параллелизм и психофизическое тождество. 
+4.	Высшая психическая функция как функциональная система: системное строе-ние высшей психической функции.
+
+
+### **Что почитать** 
+1. [Гиппенрейтер Ю.Б. Психофизическая проблема](https://docs.google.com/document/d/16_kTQ8yYKSTd4iNNTJSo6ePdJyBlqzf8/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+2. [Пономарев Я.А. Психофизическая проблема](https://docs.google.com/document/d/1Tp7DqUmJmenBqWo8tuO2o9tIW9rK_lwq/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+3. [Лурия А.Р. Поражения мозга и мозговая локализация высших психических функций](https://docs.google.com/document/d/16o3IEPbTfoxkgJGcnIcg6w3lVHopvjuv/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+4. [Печенкова Е.В., Фаликман М.В. Сознание и мозг: когнитивная наука по обе стороны психофизической проблемы](https://docs.google.com/document/d/1K5ODzaMkDeguvGUHX7K-6tVhuNpbelwy/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+5. [Иванчей И.И. Изучение сознания в когнитивной психологии. Лекция на Постнауке](https://www.youtube.com/watch?v=8ogFpiLt6uw)
+6. [Газзанига М. Глава 2. Параллельный и распределенный мозг. Глава 3. Интерпретатор](https://drive.google.com/file/d/1XKrkX4nyGOGrFfvWmOMVqC9GYjkbCKsP/view?usp=drive_link)
+
+
+
+### **Дополнительно**
+1. [Газзанига М. Кто за главного?](https://drive.google.com/file/d/1AUovEBYLhTcdcBwaD4nlR_Sk2IuM3R1u/view?usp=drive_link)
+
+
+
+# [Темы](https://docs.google.com/document/d/1E_FX1yxOG5wrCqPShfGwSGccHV0kdSWm/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true) для подготовки к контрольной №2 
