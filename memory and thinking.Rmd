@@ -205,11 +205,16 @@ output:
 
 ### **Что почитать** 
 1. [Спиридонов В.Ф. Психология мышления: психология решения задачи проблем](https://drive.google.com/file/d/1fclyqNJmSJBSFUWsYIHQ3a95IpD6s5ze/view?usp=drive_link)
-2. []()
-3. []()
-4. []()
-5. []()
-6. []()
+2. [Петухов В.В. О двух определениях мышления](https://drive.google.com/file/d/1SK6mpHrZHg9E64MZzR6OkMj9VtmqMIq2/view?usp=drive_link)
+3. [Леви-Брюль Л. Первобытное мышление](https://docs.google.com/document/d/1gJ9XhgOHUcpNPKvw8IBoxuHjzjedvOrH/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+4. [Блёйлер Э. Аутистическое мышление](https://docs.google.com/document/d/16uFhSknI2dEI9tcqgnbWWAXJCOF72v13/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+5. [Гольдштейн К. Абстрактное и конкретное поведение](https://docs.google.com/document/d/1I4F1Ue84Q2mDofSQWQb4gSqH0ad3PRkB/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+6. [Теплов Б.М. Практическое мышление](https://docs.google.com/document/d/1CbatAPdLEIS0McOUatRWvU5Y34tzoX6Y/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+7. [Линдсей Г., Халл К.С., Томпсон Р.Ф. Творческое и критическое мышление](https://docs.google.com/document/d/1dELtELSNBzdMDat7mGak6A9qPidvhMSv/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+8. [Креч Д., Крачфилд Р., Ливсон Н. Факторы определяющие решение задач](https://docs.google.com/document/d/1rujm9SX3rG9mKa6QDID-QI2KD8EZ4G9q/edit?usp=drive_link&ouid=107249325630861341969&rtpof=true&sd=true)
+9. [Уоллес Г. Стадии решения мыслительной задачи](https://drive.google.com/file/d/1jJ8MwkfW6kV5y5psu_598e7GAwpR2I_k/view?usp=drive_link)
+10. [Рейтман У. Плохо определённые задачи](https://drive.google.com/file/d/1KeaCP3YYkQ2_RNEvBj3pLJPrQ-MUtn3T/view?usp=drive_link)
+
 
 
 ##  Тема 8. Психологические механизмы решения задач 
