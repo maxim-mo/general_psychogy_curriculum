@@ -3,7 +3,7 @@
     "path": "D:/github/general_psychogy_curriculum/memory and thinking.Rmd",
     "project_path": "memory and thinking.Rmd",
     "type": "r_markdown",
-    "hash": "2774907349",
+    "hash": "122349218",
     "contents": "",
     "dirty": false,
     "created": 1694277359396.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "280,80",
-        "scrollLine": "272"
+        "cursorPosition": "299,190",
+        "scrollLine": "284"
     },
     "folds": "",
-    "lastKnownWriteTime": 1702055235,
+    "lastKnownWriteTime": 1703595216,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1702055235620,
+    "last_content_update": 1703595216982,
     "read_only": false,
     "read_only_alternatives": []
 }
